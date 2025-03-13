@@ -3,7 +3,7 @@
 🧑‍💼 Full-Stack Developer - focused on JavaScript, Java and TypeScript <br/>
 🔭 I’m currently working on a [deal-searcher](https://github.com/VincentTLa/deal-searcher) using the ozbargain website! <br/>
 🌱 Learning React Native at the moment <br/>
-🔍 Feel free to checkout my personal website!
+🔍 Feel free to checkout my [personal website!](https://vincent-la.vercel.app/)
 
 
 ## 🌐 Socials:
